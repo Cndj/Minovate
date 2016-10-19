@@ -1,2 +1,2 @@
-# Minovate
-Minovate Admin Template
+# Minovate Admin
+官方演示 ： http://tattek.sk/minovate/#/app/dashboard
