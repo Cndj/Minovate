@@ -1,0 +1,2 @@
+# Minovate
+Minovate Admin Template
